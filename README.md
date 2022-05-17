@@ -3,7 +3,7 @@
 A new Flutter application.
 
 Fork from: https://github.com/dragosholban/flutter_puzzle
-but this is working :) (some packages were refreshed)
+but this is working 🙂 (some packages were refreshed)
 
 ## Getting Started
 
