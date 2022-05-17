@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+Fork from: https://github.com/dragosholban/flutter_puzzle
+but this is working :) (some packages were refreshed)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
